@@ -1,0 +1,27 @@
+.author-media1 .rounded1 input[type = "file"]{
+    position: absolute;
+    transform: scale(2);
+    opacity: 0;
+}
+
+.author-media1 .rounded1{
+    background: #1b1e1f;
+    bottom: 34px;
+    right: 0;
+    left: 456px;
+    width: 32px;
+    height: 32px;
+    line-height: 33px;
+    text-align: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.camera{
+    margin-left: 9px;
+    margin-top: 9px;
+}
+
+.rounded-circle{
+    margin-left: 298px
+}
